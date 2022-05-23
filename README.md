@@ -22,3 +22,6 @@ Empowering students to align personal goals with research agendas
 Masters program(s)
 UGRAs, MS RAs, PhDs, post-docs
 Maybe mixtape sessions
+
+# Contact Us
+[a relative link](Contact Us.md)
